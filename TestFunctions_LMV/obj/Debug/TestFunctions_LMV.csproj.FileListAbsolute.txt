@@ -1,0 +1,9 @@
+C:\Users\Rolando\source\repos\TestFunctions_LMV\TestFunctions_LMV\bin\Debug\TestFunctions_LMV.exe.config
+C:\Users\Rolando\source\repos\TestFunctions_LMV\TestFunctions_LMV\bin\Debug\TestFunctions_LMV.exe
+C:\Users\Rolando\source\repos\TestFunctions_LMV\TestFunctions_LMV\bin\Debug\TestFunctions_LMV.pdb
+C:\Users\Rolando\source\repos\TestFunctions_LMV\TestFunctions_LMV\bin\Debug\MyFunctionsDWB_LMV.dll
+C:\Users\Rolando\source\repos\TestFunctions_LMV\TestFunctions_LMV\obj\Debug\TestFunctions_LMV.csprojAssemblyReference.cache
+C:\Users\Rolando\source\repos\TestFunctions_LMV\TestFunctions_LMV\obj\Debug\TestFunctions_LMV.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\source\repos\TestFunctions_LMV\TestFunctions_LMV\obj\Debug\TestFunctions_LMV.csproj.CopyComplete
+C:\Users\Rolando\source\repos\TestFunctions_LMV\TestFunctions_LMV\obj\Debug\TestFunctions_LMV.exe
+C:\Users\Rolando\source\repos\TestFunctions_LMV\TestFunctions_LMV\obj\Debug\TestFunctions_LMV.pdb
